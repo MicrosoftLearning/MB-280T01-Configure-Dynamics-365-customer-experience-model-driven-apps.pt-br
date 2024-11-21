@@ -33,7 +33,7 @@ Conclusão do Módulo 1 Laboratório 0 – validação do ambiente de laboratór
 
 ### Tarefa 1: Editar as diferentes exibições de Linhas de despesa
 
-1. Se você ainda não tiver entrado, entre em https://make.powerapps.com.
+1. Se você ainda não o tiver feito, entre em  `https://make.powerapps.com`.
 2. Selecione o ambiente para o qual você importou a solução Relatório de despesas no canto superior direito, se ele ainda não estiver selecionado.
 3. Usando a navegação à esquerda, selecione **Soluções.**
 4. Abra a solução Relatório de despesas.
@@ -75,7 +75,7 @@ Por fim, repetiremos esse processo mais uma vez para atualizar a Exibição de L
 
 ### Tarefa 4: Editar as diferentes exibições de Relatórios de despesas
 
-1. Se você ainda não tiver entrado, entre em https://make.powerapps.com.
+1. Se você ainda não o tiver feito, entre em  `https://make.powerapps.com`.
 2. Selecione o ambiente para o qual você importou a solução Relatório de despesas no canto superior direito, se ele ainda não estiver selecionado.
 3. Usando a navegação à esquerda, selecione **Soluções.**
 4. Abra a solução Relatório de despesas.
@@ -115,7 +115,7 @@ Por fim, repetiremos esse processo mais uma vez para atualizar a exibição de R
 
 ### Tarefa 7: Criar uma nova exibição chamada Relatórios de despesas com conclusão hoje
 
-1. Se você ainda não tiver entrado, entre em https://make.powerapps.com.
+1. Se você ainda não o tiver feito, entre em  `https://make.powerapps.com`.
 2. Selecione o ambiente para o qual você importou a solução Relatório de despesas no canto superior direito, se ele ainda não estiver selecionado.
 3. Usando a navegação à esquerda, selecione **Soluções.**
 4. Abra a solução Relatório de despesas.
@@ -123,7 +123,7 @@ Por fim, repetiremos esse processo mais uma vez para atualizar a exibição de R
 6. Em Experiências com dados, selecione **Exibições**.
 7. Abra a exibição Relatórios de despesas ativas.
 8. Selecione o botão **Salvar como**.
-9. Altere o nome para *Relatórios de despesas com conclusão hoje.*
+9. Altere o nome para *`Expense Reports Due Today`*.
 10. Selecione o botão **Salvar**.
 11. Na seção Filtrar por, selecione **Editar filtros.**
 12. Selecione o botão **Adicionar**. No menu exibido, selecione **Adicionar linha**.
