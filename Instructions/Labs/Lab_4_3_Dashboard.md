@@ -60,16 +60,9 @@ Após a conclusão bem-sucedida deste laboratório, você poderá:
 9. Selecione **Painel**.
 10. Explore os painéis do sistema que estão disponíveis por padrão. Quando estiver pronto, selecione um dos painéis que você gostaria de adicionar ao seu aplicativo.
 11. Selecione **Adicionar**.
-12. Passe o mouse sobre o grupo Relatórios de despesas em Navegação.
-13. Selecione as **reticências**. No menu exibido, selecione **Novo grupo**.
-14. Com Novo grupo selecionado, altere o Título para **Painéis.**
-15. Selecione as reticências ao lado dos painéis e escolha **Mover para cima.** O painel agora deve estar localizado acima de Relatórios de despesas.
-16. Localize e selecione o painel do sistema que você adicionou anteriormente na tarefa.
-17. Selecione as reticências e, no menu exibido, selecione **Mover para cima.**
-18. Repita a Etapa 17 para mover o painel do sistema acima de Exibição de relatórios de despesas.
-19. Repita a Etapa 17 mais uma vez para mover o painel do sistema para o grupo Painéis.
-20. Selecione o botão **Salvar**.
-21. Depois de Salvar, selecione o botão **Publicar**.
+12. Com Novo grupo selecionado, altere o Título para **Painéis.**
+13. Selecione o botão **Salvar**.
+14. Depois de Salvar, clique no botão **Salvar e Publicar**.
 
 ### Tarefa 4: Adicionar um painel pessoal ao aplicativo de gerenciamento de despesas do funcionário
 1. Se você ainda não tiver entrado, entre em `https://make.powerapps.com`

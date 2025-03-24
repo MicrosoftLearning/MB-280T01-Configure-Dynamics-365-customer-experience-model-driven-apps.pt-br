@@ -36,34 +36,30 @@ Para simplificar e ganhar tempo, não abordaremos todas as colunas do Relatório
 4. Abra a solução Relatório de despesas.
 5. Localize o aplicativo *`Employee Expense Management`* que você criou no último exercício.
 6. Selecione **Editar** para abrir o designer de aplicativo moderno.
-7. Selecione **Nova Página** na barra de comandos.
-8. A tela **Nova página** será aberta.
+7. Na barra de comandos, selecione **+ Adicionar página**.
+8. A tela **Adicionar página** abrirá.
 9. Escolha **Tabela do Dataverse.**
 10. Escolha as seguintes tabelas:
     - Relatório de Despesas
     - Linha de Despesa
 11. certifique-se que Exibir na navegação está selecionado.
 12. Depois de selecionar as duas tabelas, selecione **Adicionar**.
-13. Usando os ícones de navegação no lado esquerdo da tela, selecione **Navegação**.
-14. No painel de navegação, selecione **Novo Grupo** abaixo do item Navegação. Talvez seja necessário expandir o menu à esquerda.
-15. No lado direito da tela, na seção Opções de exibição, altere a propriedade Título para *`Expense Reports`*.
-16. Na seção Navegação, selecione as **reticências (três pontos)** ao lado de **Relatórios de despesas.** No menu exibido, selecione **Mover para cima**. Os Relatórios de despesas agora devem aparecer acima de Linhas de despesa na navegação.
-17. Em Navegação, selecione o formulário **Relatórios de despesas**.
-18. Vá para a seção Neste aplicativo no lado direito da tela.
-19. Selecione **Mostrar mais**.
-20. Selecione as **reticências** ao lado de formulário de visualização rápida de informações.
-21. No menu exibido, selecione **Remover**.
-22. Selecione as **reticências** ao lado de formulário de cartão de informações.
-23. No menu exibido, selecione **Remover**.
-24. Em Navegação, selecione o **formulário Linhas de despesa**.
-25. Vá para a seção Neste aplicativo no lado direito da tela.
-26. Selecione **Mostrar mais**.
-27. Selecione as **reticências** ao lado de formulário de visualização rápida de informações.
-28. No menu exibido, selecione **Remover**.
-29. Selecione as **reticências** ao lado de formulário de cartão de informações.
-30. No menu exibido, selecione **Remover**.
-31. Selecione **Salvar** espere as alterações serem salvas.
-32. Depois de Salvar, selecione o botão **Publicar** para publicar as alterações. Aguarde a conclusão da publicação.
+13. Em Navegação, selecione o formulário **Relatórios de despesas**.
+14. Vá para a seção Neste aplicativo no lado direito da tela.
+15. Selecione **Mostrar mais**.
+16. Selecione as **reticências** ao lado de formulário de visualização rápida de informações.
+17. No menu exibido, selecione **Remover**.
+18. Selecione as **reticências** ao lado de formulário de cartão de informações.
+19. No menu exibido, selecione **Remover**.
+20. Em Navegação, selecione o **formulário Linhas de despesa**.
+21. Vá para a seção Neste aplicativo no lado direito da tela.
+22. Selecione **Mostrar mais**.
+23. Selecione as **reticências** ao lado de formulário de visualização rápida de informações.
+24. No menu exibido, selecione **Remover**.
+25. Selecione as **reticências** ao lado de formulário de cartão de informações.
+26. No menu exibido, selecione **Remover**.
+27. Selecione **Salvar** espere as alterações serem salvas.
+28. Depois de Salvar, selecione o botão **Publicar** para publicar as alterações. Aguarde a conclusão da publicação.
 
 ### Tarefa nº 2: Testar app
 **Iniciar o aplicativo**

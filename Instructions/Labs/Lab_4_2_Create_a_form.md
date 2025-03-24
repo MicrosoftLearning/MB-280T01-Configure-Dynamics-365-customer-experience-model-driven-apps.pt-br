@@ -62,7 +62,7 @@ Nesta tarefa, modificaremos o formulário usado para adicionar itens de linha de
 3. Usando a navegação à esquerda, selecione Soluções.
 4. Abra a solução Relatório de despesas.
 5. Localize e abra a tabela Linha de despesa.
-6. Na seção Experiências de dados, selecione Formulários e abra o formulário Informações com o tipo de formulário Principal. (Importante: selecione o formulário com o tipo de formulário Principal).
+6. Na seção Experiências de dados, selecione Formulários e abra o formulário Informações com o tipo Formulário Principal. (Importante: selecione o formulário com o tipo de formulário Principal).
 
 **IMPORTANTE:** como, por padrão, todos os formulários são denominados Informação, verifique se o formulário selecionado tem um Tipo de formulário Principal e não outro. Por padrão, o formulário tem dois campos: Título da despesa e Proprietário.
 

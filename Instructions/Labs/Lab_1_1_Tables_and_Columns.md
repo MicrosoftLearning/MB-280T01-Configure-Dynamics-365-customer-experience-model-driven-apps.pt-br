@@ -47,7 +47,7 @@ A tabela Relatório de despesas conterá informações sobre o relatório de des
 3. Usando a navegação à esquerda, selecione **Soluções.**
 4. Localize e selecione a solução Relatórios de Despesas.
 5. Selecione o botão **Novo**.
-6. No menu que aparece, vá para **Tabela.** Em seguida, selecione **Definir propriedades avançadas.**
+6. No menu que aparece, vá para **Tabela.** Em seguida, selecione **Tabela (propriedades avançadas).**
 7. Configure sua nova tabela da seguinte maneira:
    - Nome de exibição`Expense Line`
    - Nome no plural: `Expense Lines`
@@ -82,7 +82,7 @@ A tabela Relatório de despesas conterá informações sobre o relatório de des
 ### Tarefa 3: Criar a coluna Valor da despesa
 1. Selecione + Nova coluna.
 2. Insira `Expense Amount` no Nome de exibição.
-3. Selecione Moeda para Tipo de dados.
+3. Selecione Moeda no tipo de dados.
 4. Selecione Salvar.
 
 ### Tarefa 4: Criar a coluna Descrição do item
